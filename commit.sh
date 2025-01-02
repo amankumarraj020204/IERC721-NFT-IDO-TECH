@@ -1,6 +1,6 @@
 #!bin/bash
 
-dates=("2025-02-11T10:00:00" "2025-02-19T10:00:00" "2025-02-27T10:00:00")
+dates=("2025-01-02T10:00:00" "2025-01-10T10:00:00" "2025-01-21T10:00:00")
 commit_message="NewVersion-Commit-IERC721-IDO-Tech"
 
 for date in "${dates[@]}"
