@@ -1,8 +1,7 @@
 #!bin/bash
-git add .
-git pull --rebase origin main
-dates=("2024-04-11T10:00:00" "2024-04-020T10:00:00" "2024-04-29T10:00:00")
-commit_message="NewVersion-Commit-IERC721-IDO-TECH"
+
+dates=("2025-02-11T10:00:00" "2025-02-19T10:00:00" "2025-02-27T10:00:00")
+commit_message="NewVersion-Commit-IERC721-IDO-Tech"
 
 for date in "${dates[@]}"
 do
